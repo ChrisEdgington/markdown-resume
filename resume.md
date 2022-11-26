@@ -11,7 +11,7 @@ keywords:
   - 'tailwindcss'
 ---
 ###### [[cedgington.dev](https://cedgington.dev)] . [ me@cedgington.dev] . [ 765-271-6687 ]
-### I am a guy who gets things done. My greatest strength is coming into situations where projects are in trouble, people have left, schedules are behind, etc., quickly determining the “reality” of the project and leading the way out of chaos. Experience at all levels of information technology (from hardware design to large team management) enables me to quickly adapt to new and unpredictable circumstances.
+### I am a guy who gets things done. My greatest strength is coming into situations where projects are in trouble, people have left, schedules are behind, etc., quickly determining the “reality” of the project and leading the way out of chaos. Experience at all levels of information technology (from hardware design to large team management) enables me to quickly adapt to new and unpredictable circumstances.  
 
 I have thirty-three years of hands-on development, research, architecture and communication experience in the global software industry. I have deep experience designing and implementing solutions in most modern languages and advanced debugging skills using both high-end debug tools and just plain-old-logging. Doing contract work for over a decade helped me become very adept at quickly coming up to speed on large sets of source code and solving problems within that source code in a short amount of time. I have also developed solid technical writing skills from years of writing technical proposal, design, and research documents. I also have many years of non-technical public speaking and leadership experience. 
 
@@ -29,9 +29,9 @@ I started remote working before it was a thing (actually before the internet exi
 ```code-groking```
 
 **Programming**: Typescript, Javascript, Python, HTML+CSS, Swift, Objective-C, C/C++, C#, Assembly  
-**Technologies**: React, TailwindCSS, Docker, Bash, Serverless,
+**Technologies**: React, TailwindCSS, Docker, Bash, Serverless, APIs  
 **Databases**: Mongodb, Postgres, MySQL  
-**Platforms**: MacOS, Linux, Windows, AWS, GCP
+**Platforms**: MacOS, Linux, Windows, AWS, GCP  
 
 ## Experience
 ### Core Software Engineer, Zinc Technologies
