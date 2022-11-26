@@ -3,7 +3,7 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Jimmy Hendricks
+title: Chris Edgington
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords: 
   - 'php' 
@@ -11,43 +11,49 @@ keywords:
   - 'linux'
 author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way.  
+###### [[example.com](https://example.com)] . [ me@example.com] . [ 765-271-6687 ]
+### Chris Edgington
+I am a guy who gets things done. My greatest strength is coming into situations where projects are in trouble, people have left, schedules are behind, etc., quickly determining the “reality” of the project and leading the way out of chaos. Experience at all levels of information technology (from hardware design to large team management) enables me to quickly adapt to new and unpredictable circumstances.
+
+I have thirty-three years of hands-on development, research, architecture and communication experience in the global software industry. I have deep experience designing and implementing solutions in most modern languages and advanced debugging skills using both high-end debug tools and just plain-old-logging. Doing contract work for over a decade helped me become very adept at quickly coming up to speed on large sets of source code and solving problems within that source code in a short amount of time. I have also developed solid technical writing skills from years of writing technical proposal, design, and research documents. I also have many years of non-technical public speaking and leadership experience. 
+
+I started remote working before it was a thing (actually before the internet existed), working as a remote software engineer for 28 years. I love to write and ship great software.
+
 
 ## Skills
-``` programming```
-``` devops ```
+```programming```
+```devops ```
 ```databases```
 ```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-``` WordPress```
+```debugging```
+```optimization```
+```mentoring```
+```code-groking```
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript  
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick  
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian  
-**DevOps**: Ansible, Chef, Kubernetes, etc.  
+**Programming**: Typescript, Javascript, Python, Swift, Objective-C, C/C++, C#, Assembly  
+**Devops**: Docker, Bash, Serverless,
+**Databases**: Mongodb, Postgres, MySQL  
+**Platforms**: MacOS, Linux, Windows, AWS, GCP
 
 ## Experience
-### CEO and Founder, Pied Piper 
-start-date-end-date, City, State and remote
+### Core Software Engineer, Zinc Technologies
+2019-Present, remote
 
 - Things you did/do here 
 - More things that you do here. 
 
 **Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job. 
 
-### Senior Software Architect, Hooli
-2010-2016, San Francisco, CA
+### Senior Software Architect, Road-iQ
+2015-2019, remote
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at? 
+- Provide overall guidance for software projects and mentoring of other software engineers
+- Develop custom tools for engineering workflow optimization, scripts and custom apps
+- Lead mobile app design and implementation, built and released apps to stores (iOS and Android)
+- Developed mobile, web, and device APIs, integrated into applications
+- Wrote custom h264 streamer, custom mp4 packager, multi-platform libraries
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job. 
+**Technologies used:** iOS SDK, React, PhoneGap, C / C++, Typescript, AWS
 
 ## Awards & Recognition 
   * Winner TechCrunch Disrupt 2001
