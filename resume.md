@@ -79,6 +79,17 @@ I started remote working before it was a thing (actually before the internet exi
 - Designed custom furnace control system using off-the-shelf industrial controls and SBCs
 - Custom javascript tool that uses Airtable, Twillio, and Youtube APIs to alert non-technical subscribers of new videos
 
+### Shipping Products
+There are many products out in the world that are running code that I wrote, here is a selection of my favorites:  
+
+- Road-iQ VDS hardware, Road-iQ Connect iOS app
+- McLaren MP4-12C luxury car
+- OvaCue Fertility Monitor
+- BMW i3 compact EV
+- Motorola Q Phone
+- Photodex ProShow slideshow software
+- A variety of website and backend servers (including the Zinc API and PriceYak)
+
 ## Education
 
 ### 1988-1990, Wabash College, math and chemistry double-major (pre-medicine)
