@@ -11,7 +11,8 @@ keywords:
   - 'tailwindcss'
 ---
 ###### [[cedgington.dev](https://cedgington.dev)] . [ chris@cedgington.dev] . [ 765-271-6687 ]
-### I am a guy who gets things done. My greatest strength is coming into situations where projects are in trouble, people have left, schedules are behind, etc., quickly determining the “reality” of the project and leading the way out of chaos. Experience at all levels of information technology (from hardware design to large team management) enables me to quickly adapt to new and unpredictable circumstances.
+### I am a guy who gets things done. My greatest strength is coming into situations where projects are in trouble, people have left, schedules are behind, etc., quickly determining the “reality” of the project and leading the way out of chaos. Experience at all levels of information technology (from hardware design to large team management) enables me to quickly adapt to new and unpredictable circumstances.  
+
 
 I have thirty-three years of hands-on development, research, architecture and communication experience in the global software industry. I have deep experience designing and implementing solutions in most modern languages and advanced debugging skills using both high-end debug tools and just plain-old-logging. Doing contract work for over a decade helped me become very adept at quickly coming up to speed on large sets of source code and solving problems within that source code in a short amount of time. I have also developed solid technical writing skills from years of writing technical proposal, design, and research documents. I also have many years of non-technical public speaking and leadership experience.
 
@@ -28,10 +29,10 @@ I started remote working before it was a thing (actually before the internet exi
 ```async```
 ```mentoring```
 
-**Programming**: Typescript, Javascript, Python, HTML+CSS, Swift, Objective-C, C/C++, C#, Assembly
-**Technologies**: React, TailwindCSS, Express, Docker, Bash, Serverless, APIs, Git, Github Actions
-**Databases**: Mongodb, Postgres, MySQL
-**Platforms**: MacOS, Linux, Windows, NodeJS, Deno, AWS, GCP
+**Programming**: Typescript, Javascript, Python, HTML+CSS, Swift, Objective-C, C/C++, C#, Assembly  
+**Technologies**: React, TailwindCSS, Express, Docker, Bash, Serverless, APIs, Git, Github Actions  
+**Databases**: Mongodb, Postgres, MySQL  
+**Platforms**: MacOS, Linux, Windows, NodeJS, Deno, AWS, GCP  
 
 ## Experience
 ### Core Software Engineer, Zinc Technologies
@@ -80,6 +81,6 @@ I started remote working before it was a thing (actually before the internet exi
 
 ## Education
 
-### 1988-1990, Wabash College, math and chemistry double-major (pre-medicine) on a full-ride scholarship
+### 1988-1990, Wabash College, math and chemistry double-major (pre-medicine)
 ### 1990-1991, Purdue University, computer science
 
