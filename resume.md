@@ -27,7 +27,6 @@ I started remote working before it was a thing (actually before the internet exi
 ```optimization```
 ```async```
 ```mentoring```
-```code-groking```
 
 **Programming**: Typescript, Javascript, Python, HTML+CSS, Swift, Objective-C, C/C++, C#, Assembly
 **Technologies**: React, TailwindCSS, Express, Docker, Bash, Serverless, APIs, Git, Github Actions
@@ -81,6 +80,6 @@ I started remote working before it was a thing (actually before the internet exi
 
 ## Education
 
-### 1988-1990, Wabash College, studying pre-medicine on a full-ride scholarship
+### 1988-1990, Wabash College, math and chemistry double-major (pre-medicine) on a full-ride scholarship
 ### 1990-1991, Purdue University, computer science
 
