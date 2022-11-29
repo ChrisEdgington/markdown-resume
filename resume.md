@@ -88,6 +88,7 @@ There are many products out in the world that are running code that I wrote, her
 - BMW i3 compact EV
 - Motorola Q Phone
 - Photodex ProShow slideshow software
+- TruckPC
 - A variety of website and backend servers (including the Zinc API and PriceYak)
 
 ## Education
