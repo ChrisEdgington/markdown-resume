@@ -41,12 +41,13 @@ I started remote working before it was a thing (actually before the internet exi
 - Owner of ZincAPI, the core technology powering all Zinc products
 - Designed and built replacement internal dashboard
 - Developed custom mongodb tool that enabled migration from costly host to Atlas, saving $10K monthly
+- Led software team in pursuing and receiving the 2020 MongoDB Innovation Award
 - Rewrote a variety of other aging internal tools: invoicing, file-based ordering, log alerting, etc.
 - Reverse-engineer major retailer sites as part of implementing ZincAPI order automation
 - Developed custom mongodb query extension enabling REST-based access to database from authed browser sessions
 - Debug urgent issues with public-facing API and cloud computing providers
 
-**Technologies used:** Python, Typescript, AWS, GCP, Linux, RabbitMQ, Redis, Chrome devtools, TailwindCSS
+**Technologies used:** Python, Typescript, AWS, GCP, Linux, RabbitMQ, Redis, TailwindCSS, MongoDB, Postgres
 
 ### Staff Software Engineer, Road-iQ
 2015-2019, remote
