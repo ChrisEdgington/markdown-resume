@@ -35,8 +35,21 @@ I started remote working before it was a thing (actually before the internet exi
 **Platforms**: MacOS, Linux, Windows, NodeJS, Deno, AWS, GCP
 
 ## Experience
+### Founder, Chief Architect, EdgeCraft Studio
+2024-April-present, remote and onsite with clients
+
+- Guide clients in developing requirements for custom software projects - helping them figure out what they need
+- Build custom integrations between IFS ERP systems and 3rd party platforms and APIs
+- Reverse engineer legacy systems in order to build IFS integration
+- Perform IFS ERP customizations - custom BPAs, queries, attributes, pages, etc.
+- Develop production-ready integration monitoring tooling
+- Build integrations between IFS and Stripe, Fedex, UPS, ShipEngine, and others
+- Train and mentor team members on IFS and how to design and build custom integrations
+
+**Technologies used:** Typescript, Windmill.dev, IFS, Docker, REST APIs
+
 ### Staff Software Engineer, Web Team, Aircore / Cantina Inc.
-2023-Feb-Present, remote
+2023-2024-Feb, remote
 
 - Rebuilt web SDK build and deployment tooling from shell scripts + webpack + grunt to typescript + vite
 - Designed and built SDK client web app "pineridge" from scratch in first 2 months - became the new standard
